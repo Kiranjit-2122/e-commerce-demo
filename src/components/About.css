@@ -1,0 +1,48 @@
+.about-container {
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.about-content h1 {
+  color: #2c3e50;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.about-content p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.features {
+  margin-top: 30px;
+}
+
+.features h2 {
+  color: #1976d2;
+}
+
+.features ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.features li {
+  font-size: 16px;
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+.thank-you {
+  margin-top: 40px;
+  font-style: italic;
+  font-weight: 500;
+  color: #333;
+}
